@@ -38,7 +38,7 @@ Deve-se ter um menu interativo onde poderemos escolher entre as seguintes opçõ
 
 #### Saída Terminal 
 
-![Saída-Terminal]()
+![Saída-Terminal](https://github.com/Paucinha/sudoku-java/blob/main/src/Sa%C3%ADda-Terminal.png?raw=true)
 
 ##
 
